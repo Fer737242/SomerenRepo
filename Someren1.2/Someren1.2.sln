@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Someren1.2", "Someren1.2\Someren1.2.csproj", "{5FF2DE61-B1B5-4B7C-933B-51A726132AF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FF2DE61-B1B5-4B7C-933B-51A726132AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF2DE61-B1B5-4B7C-933B-51A726132AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF2DE61-B1B5-4B7C-933B-51A726132AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF2DE61-B1B5-4B7C-933B-51A726132AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C13A4DB-9176-4F67-8AFD-EF96F7661991}
+	EndGlobalSection
+EndGlobal
