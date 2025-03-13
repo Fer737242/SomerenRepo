@@ -10,6 +10,7 @@ namespace Someren
 
             // Add services to the container.
             builder.Services.AddSingleton<ILecturersRepository, DbLecturersRepository>();
+            builder.Services.AddScoped<IStudentsRepository, DbStudentsRepository>();
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();

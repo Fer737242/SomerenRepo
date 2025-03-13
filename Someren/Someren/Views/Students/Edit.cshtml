@@ -1,0 +1,37 @@
+﻿@model Someren.Models.Student
+@{
+    ViewData["Title"] = "Edit Student";
+}
+
+<div class="container container-main">
+    <h1 class="text-center">Edit Student</h1>
+
+    <form asp-action="Edit" method="post" class="mt-4">
+        <input type="hidden" id="StudentN" name="StudentN" value="@Model.StudentN" />
+        <div class="mb-3">
+            <label for="FirstName" class="form-label">First name:</label>
+            <input type="text" id="FirstName" name="FirstName" class="form-control" value="@Model.FirstName" />
+        </div>
+
+        <div class="mb-3">
+            <label for="LastName" class="form-label">Last name:</label>
+            <input type="text" id="LastName" name="LastName" class="form-control" value="@Model.LastName" />
+        </div>
+
+        <div class="mb-3">
+            <label for="PhoneN" class="form-label">Phone number:</label>
+            <input type="text" id="PhoneN" name="PhoneN" class="form-control" value="@Model.PhoneN" />
+        </div>
+        <div class="mb-3">
+            <label for="ClassN" class="form-label">Class Name:</label>
+            <input type="text" id="ClassN" name="ClassN" class="form-control" value="@Model.ClassN" />
+        </div>
+
+        @* <div class="mb-3"> *@
+        @*     <label for="Password" class="form-label">Password:</label> *@
+        @*     <input type="password" id="Password" name="Password" class="form-control" value="@Model.Password" /> *@
+        @* </div> *@
+
+        <button type="submit" class="btn btn-primary w-100">Save</button>
+    </form>
+</div>

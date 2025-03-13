@@ -6,4 +6,15 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Views\Students\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\Students\" />
+  </ItemGroup>
 </Project>

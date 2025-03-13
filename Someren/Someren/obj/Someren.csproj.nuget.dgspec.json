@@ -1,31 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferju\\source\\repos\\SomerenRepo\\Someren\\Someren\\Someren.csproj": {}
+    "/Users/hanna/Documents/GitHub/SomerenRepo/Someren/Someren/Someren.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferju\\source\\repos\\SomerenRepo\\Someren\\Someren\\Someren.csproj": {
+    "/Users/hanna/Documents/GitHub/SomerenRepo/Someren/Someren/Someren.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferju\\source\\repos\\SomerenRepo\\Someren\\Someren\\Someren.csproj",
+        "projectUniqueName": "/Users/hanna/Documents/GitHub/SomerenRepo/Someren/Someren/Someren.csproj",
         "projectName": "Someren",
-        "projectPath": "C:\\Users\\ferju\\source\\repos\\SomerenRepo\\Someren\\Someren\\Someren.csproj",
-        "packagesPath": "C:\\Users\\ferju\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferju\\source\\repos\\SomerenRepo\\Someren\\Someren\\obj\\",
+        "projectPath": "/Users/hanna/Documents/GitHub/SomerenRepo/Someren/Someren/Someren.csproj",
+        "packagesPath": "/Users/hanna/.nuget/packages/",
+        "outputPath": "/Users/hanna/Documents/GitHub/SomerenRepo/Someren/Someren/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ferju\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/hanna/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,11 +39,17 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -68,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
