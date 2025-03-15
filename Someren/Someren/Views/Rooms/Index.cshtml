@@ -1,0 +1,43 @@
+﻿@model List<Someren.Models.Room>
+
+@{
+    ViewData["Title"] = "Rooms";
+}
+<a href="/Rooms/Create" class="btn btn-success">Add Room</a>
+
+
+<div class="text-center">
+    <h1 class="display-4">Rooms</h1>
+    <!--<p>Number of users in the list: "Model.Count"</p>
+    </div> -->
+</div>
+<table class="table mt-4">
+    <thead>
+        <tr>
+            <th>Room Number</th>
+            <th>Type</th>
+            <th>Size</th>
+            <th></th>
+            
+        </tr>
+    </thead>
+
+    <tbody>
+        @{
+            foreach (var Room in Model)
+            {
+                <tr>
+                    <td>@Room.RoomNumber</td>
+                    <td>@Room.Type</td>
+                    <td>@Room.Size</td>
+                    
+                    <td>
+                        <a href="@Url.Action("Edit","Rooms", new {roomNumber = Room.RoomNumber})" class="btn btn-primary btn-sm">Edit</a>
+                        <a href="@Url.Action("Delete", "Rooms", new { roomNumber = Room.RoomNumber})" class="btn btn-danger btn-sm">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+

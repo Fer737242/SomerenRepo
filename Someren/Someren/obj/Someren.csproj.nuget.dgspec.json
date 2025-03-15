@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferju\\source\\repos\\SomerenRepo\\Someren\\Someren\\Someren.csproj": {}
+    "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Someren.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferju\\source\\repos\\SomerenRepo\\Someren\\Someren\\Someren.csproj": {
+    "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Someren.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferju\\source\\repos\\SomerenRepo\\Someren\\Someren\\Someren.csproj",
+        "projectUniqueName": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Someren.csproj",
         "projectName": "Someren",
-        "projectPath": "C:\\Users\\ferju\\source\\repos\\SomerenRepo\\Someren\\Someren\\Someren.csproj",
-        "packagesPath": "C:\\Users\\ferju\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferju\\source\\repos\\SomerenRepo\\Someren\\Someren\\obj\\",
+        "projectPath": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Someren.csproj",
+        "packagesPath": "C:\\Users\\denny\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ferju\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\denny\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,11 +44,17 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -68,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
