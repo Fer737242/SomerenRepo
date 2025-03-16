@@ -1672,11 +1672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Someren.csproj",
+      "projectUniqueName": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Someren.csproj",
       "projectName": "Someren",
-      "projectPath": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Someren.csproj",
+      "projectPath": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Someren.csproj",
       "packagesPath": "C:\\Users\\denny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\obj\\",
+      "outputPath": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
