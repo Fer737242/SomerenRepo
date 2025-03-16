@@ -9,77 +9,77 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Someren
 build_property.RootNamespace = Someren
-build_property.ProjectDir = C:\Users\denny\source\repos\SomerenRepo\SomerenRepo\Someren\Someren\
+build_property.ProjectDir = C:\Users\denny\source\repos\SomerenRepo\Someren\Someren\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\denny\source\repos\SomerenRepo\SomerenRepo\Someren\Someren
+build_property.MSBuildProjectDirectory = C:\Users\denny\source\repos\SomerenRepo\Someren\Someren
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/denny/source/repos/SomerenRepo/SomerenRepo/Someren/Someren/Views/Home/GetAllLecturers.cshtml]
+[C:/Users/denny/source/repos/SomerenRepo/Someren/Someren/Views/Home/GetAllLecturers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRBbGxMZWN0dXJlcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denny/source/repos/SomerenRepo/SomerenRepo/Someren/Someren/Views/Home/Index.cshtml]
+[C:/Users/denny/source/repos/SomerenRepo/Someren/Someren/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denny/source/repos/SomerenRepo/SomerenRepo/Someren/Someren/Views/Home/Privacy.cshtml]
+[C:/Users/denny/source/repos/SomerenRepo/Someren/Someren/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denny/source/repos/SomerenRepo/SomerenRepo/Someren/Someren/Views/Lecturers/Create.cshtml]
+[C:/Users/denny/source/repos/SomerenRepo/Someren/Someren/Views/Lecturers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdHVyZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denny/source/repos/SomerenRepo/SomerenRepo/Someren/Someren/Views/Lecturers/Delete.cshtml]
+[C:/Users/denny/source/repos/SomerenRepo/Someren/Someren/Views/Lecturers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdHVyZXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denny/source/repos/SomerenRepo/SomerenRepo/Someren/Someren/Views/Lecturers/Edit.cshtml]
+[C:/Users/denny/source/repos/SomerenRepo/Someren/Someren/Views/Lecturers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdHVyZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denny/source/repos/SomerenRepo/SomerenRepo/Someren/Someren/Views/Lecturers/Index.cshtml]
+[C:/Users/denny/source/repos/SomerenRepo/Someren/Someren/Views/Lecturers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdHVyZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denny/source/repos/SomerenRepo/SomerenRepo/Someren/Someren/Views/Rooms/Create.cshtml]
+[C:/Users/denny/source/repos/SomerenRepo/Someren/Someren/Views/Rooms/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denny/source/repos/SomerenRepo/SomerenRepo/Someren/Someren/Views/Rooms/Delete.cshtml]
+[C:/Users/denny/source/repos/SomerenRepo/Someren/Someren/Views/Rooms/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denny/source/repos/SomerenRepo/SomerenRepo/Someren/Someren/Views/Rooms/Edit.cshtml]
+[C:/Users/denny/source/repos/SomerenRepo/Someren/Someren/Views/Rooms/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denny/source/repos/SomerenRepo/SomerenRepo/Someren/Someren/Views/Rooms/Index.cshtml]
+[C:/Users/denny/source/repos/SomerenRepo/Someren/Someren/Views/Rooms/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denny/source/repos/SomerenRepo/SomerenRepo/Someren/Someren/Views/Shared/Error.cshtml]
+[C:/Users/denny/source/repos/SomerenRepo/Someren/Someren/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denny/source/repos/SomerenRepo/SomerenRepo/Someren/Someren/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/denny/source/repos/SomerenRepo/Someren/Someren/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denny/source/repos/SomerenRepo/SomerenRepo/Someren/Someren/Views/_ViewImports.cshtml]
+[C:/Users/denny/source/repos/SomerenRepo/Someren/Someren/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denny/source/repos/SomerenRepo/SomerenRepo/Someren/Someren/Views/_ViewStart.cshtml]
+[C:/Users/denny/source/repos/SomerenRepo/Someren/Someren/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denny/source/repos/SomerenRepo/SomerenRepo/Someren/Someren/Views/Shared/_Layout.cshtml]
+[C:/Users/denny/source/repos/SomerenRepo/Someren/Someren/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9wnul1qi6o

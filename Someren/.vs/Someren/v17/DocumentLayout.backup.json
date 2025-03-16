@@ -1,93 +1,96 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\",
+  "WorkspaceRootPath": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\somerenrepo\\someren\\someren\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\denny\\AppData\\Local\\Temp\\c72bd205-908e-433b-995b-372d53303292_Programming2PracticeExam (6).zip.292\\Programming2PracticeExam\\my_flix\\TVEpisode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\someren\\someren\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|solutionrelative:someren\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\somerenrepo\\someren\\someren\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\someren\\someren\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|solutionrelative:someren\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\somerenrepo\\someren\\someren\\views\\rooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\someren\\someren\\views\\rooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|solutionrelative:someren\\views\\rooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\somerenrepo\\someren\\someren\\views\\rooms\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\someren\\someren\\views\\rooms\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|solutionrelative:someren\\views\\rooms\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\somerenrepo\\someren\\someren\\views\\rooms\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\someren\\someren\\views\\rooms\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|solutionrelative:someren\\views\\rooms\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\somerenrepo\\someren\\someren\\views\\rooms\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\someren\\someren\\views\\rooms\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|solutionrelative:someren\\views\\rooms\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\somerenrepo\\someren\\someren\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\someren\\someren\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|solutionrelative:someren\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\somerenrepo\\someren\\someren\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\someren\\someren\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|solutionrelative:someren\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\somerenrepo\\someren\\someren\\repositories\\dbroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\someren\\someren\\repositories\\dbroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|solutionrelative:someren\\repositories\\dbroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\somerenrepo\\someren\\someren\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\someren\\someren\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|solutionrelative:someren\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\somerenrepo\\someren\\someren\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\someren\\someren\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|solutionrelative:someren\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\somerenrepo\\someren\\someren\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\someren\\someren\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|solutionrelative:someren\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\somerenrepo\\someren\\someren\\repositories\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\someren\\someren\\repositories\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|solutionrelative:someren\\repositories\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\somerenrepo\\someren\\someren\\views\\lecturers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\someren\\someren\\views\\lecturers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|solutionrelative:someren\\views\\lecturers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\somerenrepo\\someren\\someren\\views\\lecturers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\someren\\someren\\views\\lecturers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|solutionrelative:someren\\views\\lecturers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\somerenrepo\\someren\\someren\\views\\lecturers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\someren\\someren\\views\\lecturers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|solutionrelative:someren\\views\\lecturers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\somerenrepo\\someren\\someren\\views\\lecturers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\someren\\someren\\views\\lecturers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|solutionrelative:someren\\views\\lecturers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\somerenrepo\\someren\\someren\\repositories\\ilecturersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\someren\\someren\\repositories\\ilecturersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|solutionrelative:someren\\repositories\\ilecturersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\somerenrepo\\someren\\someren\\repositories\\dummylecturers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\someren\\someren\\repositories\\dummylecturers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|solutionrelative:someren\\repositories\\dummylecturers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\somerenrepo\\someren\\someren\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\someren\\someren\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|solutionrelative:someren\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\somerenrepo\\someren\\someren\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\someren\\someren\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|solutionrelative:someren\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\somerenrepo\\someren\\someren\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|c:\\users\\denny\\source\\repos\\somerenrepo\\someren\\someren\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90A68D10-E363-47DB-9C45-39F72DF25626}|Someren\\Someren.csproj|solutionrelative:someren\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -107,23 +110,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Someren\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Someren\\Views\\_ViewStart.cshtml",
+              "Title": "TVEpisode.cs",
+              "DocumentMoniker": "C:\\Users\\denny\\AppData\\Local\\Temp\\c72bd205-908e-433b-995b-372d53303292_Programming2PracticeExam (6).zip.292\\Programming2PracticeExam\\my_flix\\TVEpisode.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\c72bd205-908e-433b-995b-372d53303292_Programming2PracticeExam (6).zip.292\\Programming2PracticeExam\\my_flix\\TVEpisode.cs",
+              "ToolTip": "C:\\Users\\denny\\AppData\\Local\\Temp\\c72bd205-908e-433b-995b-372d53303292_Programming2PracticeExam (6).zip.292\\Programming2PracticeExam\\my_flix\\TVEpisode.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\c72bd205-908e-433b-995b-372d53303292_Programming2PracticeExam (6).zip.292\\Programming2PracticeExam\\my_flix\\TVEpisode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T11:16:25.198Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:40:29.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Someren\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Someren\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T11:16:25.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Someren\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Someren\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -131,11 +146,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "DbRoomRepository.cs",
-              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Repositories\\DbRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Repositories\\DbRoomRepository.cs",
               "RelativeDocumentMoniker": "Someren\\Repositories\\DbRoomRepository.cs",
-              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Repositories\\DbRoomRepository.cs",
+              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Repositories\\DbRoomRepository.cs",
               "RelativeToolTip": "Someren\\Repositories\\DbRoomRepository.cs",
               "ViewState": "AgIAAGQAAAAAAAAAAAAEwG4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -143,11 +158,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Views\\Rooms\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Views\\Rooms\\Create.cshtml",
               "RelativeDocumentMoniker": "Someren\\Views\\Rooms\\Create.cshtml",
-              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Views\\Rooms\\Create.cshtml",
+              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Views\\Rooms\\Create.cshtml",
               "RelativeToolTip": "Someren\\Views\\Rooms\\Create.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -155,11 +170,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Views\\Rooms\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Views\\Rooms\\Delete.cshtml",
               "RelativeDocumentMoniker": "Someren\\Views\\Rooms\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Views\\Rooms\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Views\\Rooms\\Delete.cshtml",
               "RelativeToolTip": "Someren\\Views\\Rooms\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -167,11 +182,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Views\\Rooms\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Views\\Rooms\\Edit.cshtml",
               "RelativeDocumentMoniker": "Someren\\Views\\Rooms\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Views\\Rooms\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Views\\Rooms\\Edit.cshtml",
               "RelativeToolTip": "Someren\\Views\\Rooms\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -179,11 +194,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Views\\Rooms\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Views\\Rooms\\Index.cshtml",
               "RelativeDocumentMoniker": "Someren\\Views\\Rooms\\Index.cshtml",
-              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Views\\Rooms\\Index.cshtml",
+              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Views\\Rooms\\Index.cshtml",
               "RelativeToolTip": "Someren\\Views\\Rooms\\Index.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAB7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -191,11 +206,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Room.cs",
-              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Models\\Room.cs",
+              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Models\\Room.cs",
               "RelativeDocumentMoniker": "Someren\\Models\\Room.cs",
-              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Models\\Room.cs",
               "RelativeToolTip": "Someren\\Models\\Room.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,11 +218,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "RoomsController.cs",
-              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Controllers\\RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Controllers\\RoomsController.cs",
               "RelativeDocumentMoniker": "Someren\\Controllers\\RoomsController.cs",
-              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Controllers\\RoomsController.cs",
               "RelativeToolTip": "Someren\\Controllers\\RoomsController.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAswE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -215,11 +230,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\appsettings.json",
               "RelativeDocumentMoniker": "Someren\\appsettings.json",
-              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\appsettings.json",
+              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\appsettings.json",
               "RelativeToolTip": "Someren\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -227,11 +242,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Someren\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Someren\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -239,11 +254,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Program.cs",
               "RelativeDocumentMoniker": "Someren\\Program.cs",
-              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Program.cs",
+              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Program.cs",
               "RelativeToolTip": "Someren\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAhwAgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -251,11 +266,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IRoomRepository.cs",
-              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Repositories\\IRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Repositories\\IRoomRepository.cs",
               "RelativeDocumentMoniker": "Someren\\Repositories\\IRoomRepository.cs",
-              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Repositories\\IRoomRepository.cs",
+              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Repositories\\IRoomRepository.cs",
               "RelativeToolTip": "Someren\\Repositories\\IRoomRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -263,11 +278,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Views\\Lecturers\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Views\\Lecturers\\Index.cshtml",
               "RelativeDocumentMoniker": "Someren\\Views\\Lecturers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Views\\Lecturers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Views\\Lecturers\\Index.cshtml",
               "RelativeToolTip": "Someren\\Views\\Lecturers\\Index.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -275,11 +290,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Views\\Lecturers\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Views\\Lecturers\\Edit.cshtml",
               "RelativeDocumentMoniker": "Someren\\Views\\Lecturers\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Views\\Lecturers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Views\\Lecturers\\Edit.cshtml",
               "RelativeToolTip": "Someren\\Views\\Lecturers\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -287,11 +302,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Views\\Lecturers\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Views\\Lecturers\\Delete.cshtml",
               "RelativeDocumentMoniker": "Someren\\Views\\Lecturers\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Views\\Lecturers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Views\\Lecturers\\Delete.cshtml",
               "RelativeToolTip": "Someren\\Views\\Lecturers\\Delete.cshtml",
               "ViewState": "AgIAAAQAAAAAAAAAAAAuwA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -299,11 +314,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Views\\Lecturers\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Views\\Lecturers\\Create.cshtml",
               "RelativeDocumentMoniker": "Someren\\Views\\Lecturers\\Create.cshtml",
-              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Views\\Lecturers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Views\\Lecturers\\Create.cshtml",
               "RelativeToolTip": "Someren\\Views\\Lecturers\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -311,11 +326,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ILecturersRepository.cs",
-              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Repositories\\ILecturersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Repositories\\ILecturersRepository.cs",
               "RelativeDocumentMoniker": "Someren\\Repositories\\ILecturersRepository.cs",
-              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Repositories\\ILecturersRepository.cs",
+              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Repositories\\ILecturersRepository.cs",
               "RelativeToolTip": "Someren\\Repositories\\ILecturersRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -323,11 +338,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "DummyLecturers.cs",
-              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Repositories\\DummyLecturers.cs",
+              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Repositories\\DummyLecturers.cs",
               "RelativeDocumentMoniker": "Someren\\Repositories\\DummyLecturers.cs",
-              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Repositories\\DummyLecturers.cs",
+              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Repositories\\DummyLecturers.cs",
               "RelativeToolTip": "Someren\\Repositories\\DummyLecturers.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAiwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -335,11 +350,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Lecturer.cs",
-              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Models\\Lecturer.cs",
+              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Models\\Lecturer.cs",
               "RelativeDocumentMoniker": "Someren\\Models\\Lecturer.cs",
-              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Models\\Lecturer.cs",
+              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Models\\Lecturer.cs",
               "RelativeToolTip": "Someren\\Models\\Lecturer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -347,11 +362,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Someren\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Someren\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -359,11 +374,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Someren\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\SomerenRepo\\Someren\\Someren\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\denny\\source\\repos\\SomerenRepo\\Someren\\Someren\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Someren\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
